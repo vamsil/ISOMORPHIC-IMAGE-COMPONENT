@@ -1,6 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #F0ECEC;    
 }
 
 a {
@@ -11,11 +12,10 @@ a {
     width: 920px;
     background: #F3FAB6;
     padding: 10px;
-    
 }
 .component-style{
     width: 400px;
-    border: 2px solid #1b1a19;
+    border: 2px solid #564B40;
     margin: 10px;
     text-align: justify;
     font-family: cursive;
